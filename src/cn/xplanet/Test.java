@@ -10,8 +10,8 @@ public class Test {
 	 * @return void 
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("test111");
+		System.out.println("test222");
 	}
 
 }
