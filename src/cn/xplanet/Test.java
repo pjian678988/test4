@@ -3,15 +3,16 @@ package cn.xplanet;
 public class Test {
 
 	/** 
-	 * ÃèÊö¸Ã·½·¨µÄ¹¦ÄÜ¼°Ëã·¨Á÷³Ì
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½Ã·ï¿½ï¿½ï¿½ï¿½Ä¹ï¿½ï¿½Ü¼ï¿½ï¿½ã·¨ï¿½ï¿½ï¿½ï¿½
 	 *
-	 * @autor: ablesky  2013-5-30 ÏÂÎç3:37:22
+	 * @autor: ablesky  2013-5-30 ï¿½ï¿½ï¿½ï¿½3:37:22
 	 * @param args    
 	 * @return void 
 	 */
 	public static void main(String[] args) {
 		System.out.println("test111");
 		System.out.println("test222");
+		System.out.println("home");
 	}
 
 }
